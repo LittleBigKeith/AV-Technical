@@ -1,5 +1,4 @@
 ﻿#include "gtest/gtest.h"
-#include "src/gtest-internal-inl.h"
 #include "Main.h"
 #include "TesterFunction.cpp"
 
