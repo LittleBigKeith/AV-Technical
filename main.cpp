@@ -6,7 +6,7 @@
 #include <vector>
 #include <thread>
 #include <mutex>
-#include "Main.h"
+#include "main.h"
 
 bool GTEST_FLAG = false;
 
